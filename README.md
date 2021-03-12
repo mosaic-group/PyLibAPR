@@ -1,3 +1,5 @@
+__Note: This repository is a mirror of [AdaptiveParticles/PyLibAPR](https://github.com/AdaptiveParticles/PyLibAPR). Please refer to the original repository for issues and pull requests.__
+
 # PyLibAPR
 
 Python wrappers for [LibAPR](https://github.com/AdaptiveParticles/LibAPR) - Library for producing and processing on 
